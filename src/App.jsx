@@ -43,13 +43,31 @@ export default App;
 
 {/*
 
-|-project/
+wtt/
 ├── public/
 ├── src/
 │   ├── assets/
 │   │   └── bgimage1.svg
 │   ├── components/
+│   │   ├── Footer.tsx
+│   │   ├── Hero.tsx
 │   │   └── Homepage.tsx ✅
-│   ├── App.tsx
-│   └── main.tsx or index.tsx
+│   ├── pages/
+│   │   ├── Bedroom.jsx
+│   │   ├── Cart.tsx
+│   │   ├── CollectionPage.tsx
+│   │   ├── Dining.jsx
+│   │   ├── Furniture.jsx
+│   │   ├── LivingRoom.jsx
+│   │   ├── LogIn.jsx
+│   │   ├── New.tsx
+│   │   ├── Outdoor.jsx
+│   │   ├── Search.tsx
+│   │   ├── Study.jsx
+│   │   └── Wishlist.tsx
+│   ├── App.jsx
+│   ├── declaration.d.ts
+│   ├── index.css
+│   └── main.tsx
+
 */}
